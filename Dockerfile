@@ -1,3 +1,3 @@
 #From gcr.io/jenkinsxio/nginx-ingress-controller:0.30.0
-From gcr.io/istio-release/iptables@sha256:8601b3cb13984e375d9a9a85687f23c88bc798e4f2ec9a80cca5e6abda66c6f9
+From docker.io/envoyproxy/envoy-build-ubuntu:11efa5680d987fff33fde4af3cc5ece105015d04-amd64
 ENV TEST=true
